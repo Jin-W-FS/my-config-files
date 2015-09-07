@@ -1,4 +1,10 @@
-# escape 
+escape ^Ll
+
+autodetach on
+
+startup_message off
+
+defscrollback 65535
 
 # bind 2 split
 # bind o focus
