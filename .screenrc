@@ -1,0 +1,8 @@
+# escape 
+
+# bind 2 split
+# bind o focus
+# bind 1 only
+# bind 0 remove
+
+caption always "%?%F%{-b 4w}%:%{-b bb}%? %H | %l | %m-%d %c |%?%F%{-b 4w}%?%L=%-Lw%45>%{-b w4}%n%f* %t%{-}%+Lw%-0<"
